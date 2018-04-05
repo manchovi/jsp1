@@ -8,8 +8,5 @@ public class Materias {
         System.out.println("Ingrese el nombre de la materia que cursa: ");
         String mataria = leer.nextLine();
         
-        //Adicione esta línea de codigo desde el repositorio remoto
-        System.out.println("El nombre de la materia que cursa es: " + materia);
-        
     }
 }
